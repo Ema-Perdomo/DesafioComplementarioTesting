@@ -1,4 +1,4 @@
-# (Último update CLASE 39 Documentacion de APIs)
+# (Último update CLASE 41 Testing avanzado)
 # Proyecto Final Backend - Backend
 
 Proyecto final sobre ecommerce para el curso de Backend Development - CODERHOUSE
